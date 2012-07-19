@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python /Users/gjb/Documents/workspace/quotegenerator/src/randomquotes.py /Users/gjb/Documents/workspace/quotegenerator/quotes.txt
+python /Users/catherine/Sites/Quote-generator/src/randomquotes.py /Users/catherine/Sites/Quote-generator/quotes.txt
